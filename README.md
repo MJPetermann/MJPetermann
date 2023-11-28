@@ -1,26 +1,29 @@
-<h1 align="center">Hi 👋, I'm Michael!</h1>
-<h3 align="center">developer for esport technology</h3>
+# Michael Petermann
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjpetermann&label=stalker%20count&color=000000&style=flat" alt="mjpetermann" /> </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/realpeteramann)](https://twitter.com/realpeteramann)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mjpetermann/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/publicpetermann/)](https://www.instagram.com/publicpetermann)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mj-coding@petermann.email)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://mpetermann.de)](https://mpetermann.de)
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
-- 🔭 I’m currently working on [a music-based social media platform](https://github.com/MJPetermann/socialfy-web)
+- Head of Counter-Strike at Kiel Gaming Port
+- Developer of Log2Mod. If you're interested in CS2 plugin development with JS check it out!
 
-- 🌱 I’m currently learning **Nuxt 3, UX and UI design**
+### 🖥 Skills
 
-- 👯 I’m looking to collaborate on [a CS:GO (CS2) tournement interface](https://github.com/MJPetermann/TournementWebInterface)
+- JavaScript Development
+- System Integration
+- Server Management
+- Esport Technology
+  
+### ⚙️ Tech Stack
 
-- 👨‍💻 All of my projects are available at [mpetermann.de/project](mpetermann.de/project)
+![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Node-05122A?style=flat-square&logo=Node&color=353535) ![Bootstrap](https://img.shields.io/badge/-NuxtJS-05122A?style=flat-square&logo=NuxtJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Vue-05122A?style=flat-square&logo=Vue&color=353535) ![Bootstrap](https://img.shields.io/badge/-Redis-05122A?style=flat-square&logo=Redis&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 
-- 📫 How to reach me **mj [dash] coding [at] petermann [dot] email**
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+</div>
 
-- 📄 Know about my experiences [mpetermann.de/resume](mpetermann.de/resume)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/publicpetermann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realpetermannparker" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjpetermann&show_icons=true&locale=en" alt="mjpetermann" /></p>
