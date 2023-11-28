@@ -23,7 +23,8 @@
 ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Node-05122A?style=flat-square&logo=Node&color=353535) ![Bootstrap](https://img.shields.io/badge/-NuxtJS-05122A?style=flat-square&logo=NuxtJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Vue-05122A?style=flat-square&logo=Vue&color=353535) ![Bootstrap](https://img.shields.io/badge/-Redis-05122A?style=flat-square&logo=Redis&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjpetermann&show_icons=true&locale=en&layout=compact" alt="mjpetermann" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mjpetermann&" alt="mjpetermann" />
 </div>
+
 
