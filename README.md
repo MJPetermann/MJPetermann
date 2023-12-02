@@ -7,8 +7,8 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://mpetermann.de)](https://mpetermann.de)
 [![Github](https://img.shields.io/github/followers/mjpetermann?label=Follow&style=social)](https://github.com/mjpetermann)
 
-- Head of Counter-Strike at Kiel Gaming Port
-- Developer of Log2Mod. If you're interested in CS2 plugin development with JS check it out!
+- Head of Counter-Strike at [Kiel Gaming Port](https://www.kielgamingport.de/)
+- Developer of [Log2Mod](https://github.com/MJPetermann/log2mod). If you're interested in CS2 plugin development with JS check it out!
 
 ### 🖥 Skills
 
